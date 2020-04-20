@@ -4,6 +4,7 @@
 提取码：xsjv
 **Jetbrains-agent补丁** https://pan.baidu.com/s/1z1NAQw2hZ9kYRWYISNa7ig 
 提取码：ti9y
+详细的步骤：https://blog.csdn.net/qq_42009978/article/details/105629757
 
 第一步：正确安装 Pycharm 软件
 第二步：下载 jetbrains-agent.jar 文件并放到 Pycharm 安装路径下的bin文件夹里
